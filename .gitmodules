@@ -1,0 +1,9 @@
+[submodule "MedMobile"]
+	path = MedMobile
+	url = https://github.com/Shureck/MedMobile.git
+[submodule "medbeck"]
+	path = medbeck
+	url = https://github.com/ginfinn/medbeck
+[submodule "CP"]
+	path = CP
+	url = https://github.com/Cukanov/CP
