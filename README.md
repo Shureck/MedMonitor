@@ -1,8 +1,3 @@
-Для клонирования используйте команды  
-`git clone https://github.com/Shureck/MedMonitor.git`  
-И из корня папки с проектами
-`git submodule update --init`
-
 # Тонометр.Онлайн
 Продукт для дистанционного мониторинга уровня артериального давления и пульса у больных гипертензией.
 
@@ -32,3 +27,15 @@
 * Mobile - Android SDK, Java
 * Web - HTML/CSS, JavaScript
 * Backend - Spring, Java, JWT, JPA
+
+## Запуск
+Для клонирования используйте команды  
+`git clone https://github.com/Shureck/MedMonitor.git`  
+И из корня папки с проектами
+`git submodule update --init`
+
+## Разработчики
+Горшков Евгений
+Левандровский Александр
+Матчин Артемий
+Цуканов Дмитрий
