@@ -27,6 +27,7 @@
 * Mobile - Android SDK, Java
 * Web - HTML/CSS, JavaScript
 * Backend - Spring, Java, JWT, JPA
+* Computer Vision - OpenCV, NumPY, SciPY, Python
 
 ## Запуск
 Для клонирования используйте команды  
